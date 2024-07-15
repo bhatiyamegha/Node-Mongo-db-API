@@ -32,6 +32,4 @@ For an in-depth understanding of our API and its usage, we recommend referring t
 
 [![Postman Documentation](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/30449072/2s9YeK3Vc8).
 
-## Credits
 
-This project was successfully completed as part of a task assigned by Guvi. We have diligently adhered to all the requirements provided by Guvi in the completion and submission of this task.
